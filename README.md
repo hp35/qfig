@@ -10,8 +10,10 @@ University, 2026).
 In order to regenerate the figures from the MetaPost sources, use the
 enclosed Makefile and just run 'make' in the current directory.
 
-#Author
+## Author
+
 Fredrik Jonsson <http://jonsson.eu>
 
-#Copyright
+## Copyright
+
 No copyright whatsoever. Just use it.
